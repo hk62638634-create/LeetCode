@@ -28,6 +28,7 @@ My LeetCode solutions, automatically synced from LeetCode by the [LeetHub v2](ht
 | [0014-longest-common-prefix](https://github.com/hk62638634-create/LeetCode/tree/main/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/hk62638634-create/LeetCode/tree/main/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/hk62638634-create/LeetCode/tree/main/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/hk62638634-create/LeetCode/tree/master/0283-move-zeroes) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/hk62638634-create/LeetCode/tree/main/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/hk62638634-create/LeetCode/tree/main/1895-largest-magic-square) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/hk62638634-create/LeetCode/tree/main/3315-construct-the-minimum-bitwise-array-ii) |
@@ -78,6 +79,7 @@ My LeetCode solutions, automatically synced from LeetCode by the [LeetHub v2](ht
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/hk62638634-create/LeetCode/tree/main/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/hk62638634-create/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/hk62638634-create/LeetCode/tree/main/0344-reverse-string) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/hk62638634-create/LeetCode/tree/main/1877-minimize-maximum-pair-sum-in-array) |
 <!---LeetCode Topics End-->
